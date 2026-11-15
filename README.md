@@ -1,5 +1,7 @@
 # AI Research Playbook
 
+[GitHub profile](https://github.com/MJNolan37) / [Portfolio](https://github.com/MJNolan37/Portfolio) / AI Research Playbook
+
 **How I plan, check and decide when I work across several AI tools, and how each project teaches me something.**
 
 I use AI tools to write and review research code. I own the research questions, methodological decisions and release decisions. This repo shows how I keep it that way.
