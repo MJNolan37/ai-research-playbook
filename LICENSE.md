@@ -10,4 +10,4 @@ Suggested attribution: “AI Research Playbook by MJNolan37,” with a link to h
 
 Linked external material remains subject to its respective terms.
 
-See the [full license terms](https://creativecommons.org/licenses/by/4.0/legalcode.en).
+The [full CC BY 4.0 license text](LICENSE) is included in this repository. The [official legal code](https://creativecommons.org/licenses/by/4.0/legalcode.en) is also available from Creative Commons.
