@@ -69,3 +69,8 @@ Roles overlap and shift as tool access changes. I route work by what a tool can 
 **It isn't** an autonomous system, a custom platform or a set of integrations I built. I haven't measured whether using several tools improves accuracy, and I don't claim it does. At its October 25, 2026 snapshot, Project Parallax had not tested its hypotheses; what's shown here is the process around it.
 
 [a1]: https://github.com/MJNolan37/Project-Parallax/blob/38411cc050696efde85d7702c9a11b9ad985c693/docs/A1_STATUS.md
+
+## License
+
+The original text, templates and diagrams are licensed under
+[CC BY 4.0](LICENSE.md), except where otherwise noted.
